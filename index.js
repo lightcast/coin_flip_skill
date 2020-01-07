@@ -4,4 +4,5 @@ const flipCoin = () =>{
         return rand;
 }
 
+
 module.exports = flipCoin;
